@@ -17,10 +17,10 @@ I am a passionate Junior Software Developer with a solid foundation in software 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23008080.svg?style=for-the-badge&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-%23000000.svg?style=for-the-badge&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### Database
 
@@ -45,7 +45,7 @@ I am a passionate Junior Software Developer with a solid foundation in software 
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://h3rt.github.io/port.github.io/)
+[<img src ="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">](https://h3rt.github.io/port.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />]([https://www.linkedin.com/in/lawrence-sibisi-1460b1252](https://www.linkedin.com/in/karabo-sethuntsa-0289b1219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 </p>
